@@ -40,7 +40,7 @@ Text_Tone_Reproduction_Project/
 ├── data/
 │   └── raw/                   # Original, unmodified datasets (see DATA.md)
 │
-├── notebooks/
+├── codes/
 │   ├── preprocessing_script.ipynb              # Splits the raw_data file into train/test splits for each user
 │   ├── llama_3_few_shot_prompt.ipynb           # Constructs prompt with examples from training data, initiates generation
 │   ├── llama_3_few_lora_fine_tuning.ipynb      # Constructs prompt and user adapters from training data, initiates generation
