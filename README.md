@@ -77,24 +77,19 @@ Run the notebooks cells.
 
 **Expected output:** `data/train.csv` and `data/train.csv`
 
-  Split Summary
-
-  Total train rows : 2109
-  Total test rows  : 523
-  Users in train   : 7
-  Users in test    : 7
-
-          train  test  total  test_%
-user_id                            
-U01        148    36    184    19.6
-U03         30     7     37    18.9
-U09        176    43    219    19.6
-U11         92    23    115    20.0
-U12        112    28    140    20.0
-U14         55    13     68    19.1
-U15       1496   373   1869    20.0
-
----
+| Split Summary    |
+| Total train rows | 2109 |
+| Total test rows  | 523 |  
+| Users in train   |  7 | 
+| Users in test    |  7 | 
+|-------------------|--------|
+|user_id | train | test | total | test % |
+| U01   | 148 | 36 | 184 | 19.6 |
+| U03   | 30 | 7 | 37 | 18.9 |
+| U09   | 176 | 42 | 219 | 19.6 |
+| U11   | 92 | 23 | 115 | 20.0 |
+| U12   | 112 | 28 | 140 | 19.1 |
+| U14   | 55 | 13 | 68 | 20.0 |
 
 ### Step 2 — Prompt / Fine-tune & Generate
 
