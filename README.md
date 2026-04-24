@@ -77,9 +77,8 @@ Run the notebooks cells.
 
 **Expected output:** `data/train.csv` and `data/train.csv`
 
-==================================================
   Split Summary
-==================================================
+
   Total train rows : 2109
   Total test rows  : 523
   Users in train   : 7
@@ -94,7 +93,6 @@ U11         92    23    115    20.0
 U12        112    28    140    20.0
 U14         55    13     68    19.1
 U15       1496   373   1869    20.0
-==================================================
 
 ---
 
